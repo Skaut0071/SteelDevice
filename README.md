@@ -18,7 +18,7 @@ This is just a test based on previously created programs here:
   I am planing to make charging detection for headphones but its difficult becuse of wierd responces from dongles.
   Feel free to share anythink with me.
 
-  Features:
+Features:
 - Settings for icon customization
 - Customable battery colors
 - Update interval
