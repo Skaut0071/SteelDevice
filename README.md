@@ -2,6 +2,13 @@
 ------------------------
 This program is made for purpuse of making people lives easier.
 Whoever owns wirelles mouse or headphones from Steelseries this will help you to keep an eye on your battery.
+----
+(Please keep in mind this is my first bigger github project for public :D)
+-----
+Important!
+-----
+If your battery for mouse dosnt show up try right-click and Refresh.
+
 
 How it works:
 - Detects your steelseries device
