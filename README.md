@@ -1,14 +1,14 @@
 # SteelDevice
-------------------------
+
 This program is made for purpuse of making people lives easier.
 Whoever owns wirelles mouse or headphones from Steelseries this will help you to keep an eye on your battery.
-----
+#
 (Please keep in mind this is my first bigger github project for public :D)
------
+#
 Important!
------
-If your battery for mouse dosnt show up try right-click and Refresh.
 
+If your battery for mouse dosnt show up try right-click and Refresh.
+#
 
 How it works:
 - Detects your steelseries device
@@ -20,6 +20,8 @@ Info -
 This is just a test based on previously created programs here:
 - https://github.com/aarol/arctis-battery-indicator
 - https://github.com/yurtemre7/mouse-battery
+
+Folder idea obtains files I was using to make this app
 
   The first release is just in Alpha so there could be some issues, please report any.
   I am planing to make charging detection for headphones but its difficult becuse of wierd responces from dongles.
