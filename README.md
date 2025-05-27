@@ -9,7 +9,7 @@ How it works:
 - Makes icon in your tray
 - Displays graficly your battery
 
-Info:
+Info -
 This is just a test based on previously created programs here:
 - https://github.com/aarol/arctis-battery-indicator
 - https://github.com/yurtemre7/mouse-battery
