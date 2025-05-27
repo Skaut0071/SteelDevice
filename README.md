@@ -36,3 +36,20 @@ Features:
 Tested devices so far:
 - Aerox 5 Wireless
 - Arctis Nova 5
+
+Images:
+
+
+- Tray icon:
+
+![image](https://github.com/user-attachments/assets/bbbe2f54-53e7-4989-957a-ca764665cfaf)
+
+
+- Tray menu (right-click):
+
+![image](https://github.com/user-attachments/assets/498c916e-9dc1-4086-99bd-c7f3b559f6a7)
+
+
+- Settings:
+
+![image](https://github.com/user-attachments/assets/c46470d6-6d2f-4573-90d7-d98a0df941e2)
