@@ -1,20 +1,20 @@
 # SteelDevice
 
-This program is made for purpuse of making people lives easier.
-Whoever owns wirelles mouse or headphones from Steelseries this will help you to keep an eye on your battery.
+This program is made for purpose of making people lives easier.
+Whoever owns wireless mouse or headphones from Steelseries this will help you to keep an eye on your battery.
 #
 (Please keep in mind this is my first bigger github project for public :D)
 #
 Important!
 
-If your battery for mouse dosnt show up try right-click and Refresh.
+If your battery for mouse doesn't show up try right-click and Refresh.
 #
 
 How it works:
 - Detects your steelseries device
 - Reads battery %
 - Makes icon in your tray
-- Displays graficly your battery
+- Displays graficaly your battery
 
 Info -
 This is just a test based on previously created programs here:
@@ -24,8 +24,8 @@ This is just a test based on previously created programs here:
 Folder idea obtains files I was using to make this app
 
   The first release is just in Alpha so there could be some issues, please report any.
-  I am planing to make charging detection for headphones but its difficult becuse of wierd responces from dongles.
-  Feel free to share anythink with me.
+  I am planing to make charging detection for headphones but its difficult because of wierd responces from dongles.
+  Feel free to share anything with me.
 
 Features:
 - Settings for icon customization
