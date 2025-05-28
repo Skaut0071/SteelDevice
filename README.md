@@ -8,6 +8,7 @@ Whoever owns wireless mouse or headphones from Steelseries this will help you to
 Important!
 
 You need to have install python 3.12 >> https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
+
 If the app dosnt start up try opening cmd and paste this in "pip install hidapi rivalcfg pystray Pillow"
 
 If your battery for mouse doesn't show up try right-click and Refresh.
