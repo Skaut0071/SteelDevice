@@ -1,36 +1,25 @@
 # SteelDevice
 
 This program is made for purpose of making people lives easier.
-Whoever owns wireless mouse or headphones from Steelseries this will help you to keep an eye on your battery.
+Whoever owns a wireless mouse or headphones from Steelseries, this will help you to keep an eye on your battery state.
 #
 (Please keep in mind this is my first bigger github project for public :D)
 #
 Important!
 
-You need to have install python 3.12 >> https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
+You need to have installed python 3.12 >> https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
 
-If the app dosnt start up try opening cmd and paste this in "pip install hidapi rivalcfg pystray Pillow"
+If the app dosn't start up try opening cmd and paste this in `pip install hidapi rivalcfg pystray Pillow`
 
-If your battery for mouse doesn't show up try right-click and Refresh.
+If the battery for your mouse doesn't show up try right-clicking the icon and press `Refresh`
 
 #
 
 How it works:
-- Detects your steelseries device
-- Reads battery %
-- Makes icon in your tray
-- Displays graficaly your battery
-
-Info -
-This is just a test based on previously created programs here:
-- https://github.com/aarol/arctis-battery-indicator
-- https://github.com/yurtemre7/mouse-battery
-
-Folder idea obtains files I was using to make this app
-
-  The first release is just in Alpha so there could be some issues, please report any.
-  I am planing to make charging detection for headphones but its difficult because of wierd responces from dongles.
-  Feel free to share anything with me.
+- Detects your Steelseries device
+- Reads battery percentage
+- Puts a icon in your tray
+- Displays graficaly your battery state
 
 Features:
 - Settings for icon customization
@@ -41,6 +30,19 @@ Features:
 Tested devices so far:
 - Aerox 5 Wireless
 - Arctis Nova 5
+
+#
+
+Info -
+This is just a test based on previously created programs here:
+- https://github.com/aarol/arctis-battery-indicator
+- https://github.com/yurtemre7/mouse-battery
+
+Folder `idea` obtains files I was using to make this app
+
+The first release is just in Alpha so there could be some issues, please report any.
+I am planing to make charging detection for headphones but its difficult because of wierd responces from dongles.
+Feel free to share anything with me.
 
 Images:
 
