@@ -9,10 +9,6 @@ Important!
 
 You need to have installed python 3.12 >> https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
 
-If the app dosn't start up try opening cmd and paste this in `pip install hidapi rivalcfg pystray Pillow`
-
-If the battery for your mouse doesn't show up try right-clicking the icon and press `Refresh`
-
 #
 
 How it works:
