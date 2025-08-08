@@ -7,7 +7,7 @@ Whoever owns a wireless mouse or headphones from Steelseries, this will help you
 #
 Important!
 
-You need to have installed python 3.12 >> https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
+In case of program maufuncion press refresh button.
 
 #
 
