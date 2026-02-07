@@ -1,0 +1,12 @@
+{
+  "update_interval": 300,
+  "autostart": false,
+  "debug_mode": false,
+  "colors": {
+    "high": "#00FF00",
+    "medium": "#FFFF00",
+    "low": "#FF0000",
+    "charging": "#FFA500",
+    "error": "#808080"
+  }
+}
